@@ -22,6 +22,7 @@ namespace the_bloeblablie
     {
         public MainWindow()
         {
+            // Versie 2.0
             InitializeComponent();
         }
     }
